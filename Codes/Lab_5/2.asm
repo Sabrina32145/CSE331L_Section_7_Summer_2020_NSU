@@ -37,7 +37,7 @@
     JZ @ZERO
     JG @POSITIVE
     JL @NEGATIVE
-                                                     ; 3---> 0<3  
+                                                    
 
 @ZERO:
 MOV DL, 'Z'
